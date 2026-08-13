@@ -1,2 +1,2 @@
 # hello-repo-pk
-setting Up Git
+Setting Up Git
